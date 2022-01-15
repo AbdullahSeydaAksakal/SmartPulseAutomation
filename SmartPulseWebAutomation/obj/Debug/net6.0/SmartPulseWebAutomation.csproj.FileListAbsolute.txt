@@ -97,4 +97,3 @@ C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseWebAutomation\obj\Debu
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseWebAutomation\obj\Debug\net6.0\ref\SmartPulseWebAutomation.dll
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseWebAutomation\obj\Debug\net6.0\SmartPulseWebAutomation.pdb
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseWebAutomation\obj\Debug\net6.0\SmartPulseWebAutomation.genruntimeconfig.cache
-C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseWebAutomation\obj\Debug\net6.0\SmartPulseWebAutomation.csproj.AssemblyReference.cache
