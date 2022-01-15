@@ -1,0 +1,14 @@
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\SmartPulseMobileAutomationNormal.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\SmartPulseMobileAutomationNormal.pdb
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\SmartPulseMobileAutomationNormal.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\SmartPulseMobileAutomationNormal.csproj.CopyComplete
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\SmartPulseMobileAutomationNormal.dll
+C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\SmartPulseMobileAutomationNormal.pdb
