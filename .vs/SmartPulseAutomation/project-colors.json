@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0fb45598-2322-4d9c-9057-b79ba30c449f": {
+      "ProjectGuid": "0fb45598-2322-4d9c-9057-b79ba30c449f",
+      "DisplayName": "SmartPulseWebAutomation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "253c3132-7370-48bd-a281-9e52f85f8460": {
+      "ProjectGuid": "253c3132-7370-48bd-a281-9e52f85f8460",
+      "DisplayName": "SmartPulseMobileAutomationNormal",
+      "ColorIndex": 1
+    },
+    "c1088459-bee1-49ef-ae6e-e58506428b43": {
+      "ProjectGuid": "c1088459-bee1-49ef-ae6e-e58506428b43",
+      "DisplayName": "SmartPulseMobileAutomationBdd",
+      "ColorIndex": 2
+    },
+    "2e40dbbb-004f-494d-8659-2603823ec45e": {
+      "ProjectGuid": "2e40dbbb-004f-494d-8659-2603823ec45e",
+      "DisplayName": "SmartPulseMobileAutomationBdd",
+      "ColorIndex": 3
+    },
+    "a2d377bb-87a8-4630-b06e-280aed20ba37": {
+      "ProjectGuid": "a2d377bb-87a8-4630-b06e-280aed20ba37",
+      "DisplayName": "SmartPulseMobileAutomationNormal",
+      "ColorIndex": 4
+    },
+    "ddde450e-44f0-4ac6-9255-c0f98e0f5864": {
+      "ProjectGuid": "ddde450e-44f0-4ac6-9255-c0f98e0f5864",
+      "DisplayName": "SmartPulseMobileAutomation",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
