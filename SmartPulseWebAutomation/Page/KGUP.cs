@@ -3,7 +3,7 @@ using OpenQA.Selenium.Chrome;
 using System.Threading;
 using Xunit;
 
-namespace SmartPulseWebAutomation
+namespace SmartPulseWebAutomation.Page
 {
     public class KGUP
     {
