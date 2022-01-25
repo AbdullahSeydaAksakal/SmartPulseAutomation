@@ -21,6 +21,7 @@ namespace SmartPulseWebAutomation.Page
         }
         #endregion
 
+        #region Case
         [Fact]
         public void KGUPPage()
         {
@@ -39,5 +40,7 @@ namespace SmartPulseWebAutomation.Page
 
 
         }
+        #endregion
+
     }
 }
