@@ -97,7 +97,6 @@ C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
-C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\net6.0\SmartPulseMobileAutomationNormal.csproj.AssemblyReference.cache
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\net6.0\SmartPulseMobileAutomationNormal.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\net6.0\SmartPulseMobileAutomationNormal.AssemblyInfoInputs.cache
 C:\Users\test\source\repos\SmartPulseAutomation\SmartPulseMobileAutomationNormal\obj\Debug\net6.0\SmartPulseMobileAutomationNormal.AssemblyInfo.cs
