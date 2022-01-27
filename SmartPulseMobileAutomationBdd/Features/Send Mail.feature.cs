@@ -80,16 +80,19 @@ namespace SmartPulseMobileAutomationBdd.Features
             this.TestTearDown();
         }
         
-        [Xunit.SkippableFactAttribute(DisplayName="05 04 2020 Tarihine ait")]
+        [Xunit.SkippableFactAttribute(DisplayName="05 04 2020 Tarihine ait PTF ortalamasını seç ve \'analyst.team@smartpulse.io\' adre" +
+            "sine mail at")]
         [Xunit.TraitAttribute("FeatureTitle", "Send Mail")]
-        [Xunit.TraitAttribute("Description", "05 04 2020 Tarihine ait")]
+        [Xunit.TraitAttribute("Description", "05 04 2020 Tarihine ait PTF ortalamasını seç ve \'analyst.team@smartpulse.io\' adre" +
+            "sine mail at")]
         [Xunit.TraitAttribute("Category", "mytag")]
-        public virtual void _05042020TarihineAit()
+        public virtual void _05042020TarihineAitPTFOrtalamasınıSecVeAnalyst_TeamSmartpulse_IoAdresineMailAt()
         {
             string[] tagsOfScenario = new string[] {
                     "mytag"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("05 04 2020 Tarihine ait", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("05 04 2020 Tarihine ait PTF ortalamasını seç ve \'analyst.team@smartpulse.io\' adre" +
+                    "sine mail at", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
 #line 5
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
@@ -111,16 +114,37 @@ this.ScenarioInitialize(scenarioInfo);
             {
                 this.ScenarioStart();
 #line 6
- testRunner.Given("the first number is 50", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("Epias uygulamasini ac", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 7
- testRunner.And("the second number is 70", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And("Yukarıdaki PTF/SMF simgesinin sagindaki ok dugmesine tıkla", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 8
- testRunner.When("the two numbers are added", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.And("Epias logosunun altındaki Takvim butonuna bas", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 9
- testRunner.Then("the result should be 120", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.And("Takvim ekranında takvimi \'05.04.2020\' olacak sekilde ayarla", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 10
+ testRunner.And("Tamam Düğmesine Tıkla", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 11
+ testRunner.And("Ekranin ortasindaki dugmeye bas", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 12
+ testRunner.And("PTF paylasim dugmesine bas.", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 13
+ testRunner.And("Gmaili Sec", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 14
+ testRunner.And("Gonderen kismina \'aseydaaksakal@gmail.com\' yaz", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 15
+ testRunner.When("Gonder dugmesine bas", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 16
+ testRunner.Then("Mailin basarili bir sekilde gönderildigini ve Ana Sayfaya dustugunu gor", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
