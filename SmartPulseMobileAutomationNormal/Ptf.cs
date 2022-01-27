@@ -53,7 +53,7 @@ namespace SmartPulseMobileAutomationNormal
             AndroidElement mcpButton = _driver.FindElementById("com.foreks.android.epias:id/fragmentPtfSmf_imageView_redirect");
             mcpButton.Click();
 
-            Thread.Sleep(7000);
+            Thread.Sleep(10000);
 
             AndroidElement calendarButton = _driver.FindElementById("com.foreks.android.epias:id/layoutEpiasTopSelectionView_imageViewDate");
             calendarButton.Click();
@@ -67,7 +67,7 @@ namespace SmartPulseMobileAutomationNormal
             dayscroll
               .Press(dayButton)
               .Wait(1000)
-              .MoveTo(dayButton, 300, 1300)
+              .MoveTo(dayButton, 300, 2000)
               .Release();
             dayscroll.Perform();
 
@@ -122,7 +122,7 @@ namespace SmartPulseMobileAutomationNormal
             Thread.Sleep(2000);
 
             AndroidElement GmailToTextboxt = _driver.FindElementByXPath("/ hierarchy / android.widget.FrameLayout / android.widget.LinearLayout / android.widget.FrameLayout / android.widget.LinearLayout / android.widget.FrameLayout / android.widget.RelativeLayout / android.widget.ScrollView / android.widget.LinearLayout / android.widget.LinearLayout / android.widget.RelativeLayout[1] / android.widget.RelativeLayout / android.widget.RelativeLayout / android.view.ViewGroup / android.widget.EditText");
-            GmailToTextboxt.SendKeys("aseydaaksakal@gmail.com");
+            GmailToTextboxt.SendKeys("analyst.team@smartpulse.io");
             Thread.Sleep(2000);
             _driver.LongPressKeyCode(AndroidKeyCode.Enter);
 

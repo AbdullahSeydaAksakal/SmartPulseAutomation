@@ -13,11 +13,12 @@ namespace SmartPulseMobileAutomationBdd.Drivers
     [Binding]
     public class Core
     {
+        
 
         [BeforeScenario]
 
         #region Initialize
-        internal AndroidDriver<AppiumWebElement> Initialize()
+        public AndroidDriver<AppiumWebElement> Initialize()
         {
             var cap = new AppiumOptions();
             cap.AddAdditionalCapability("appPackage", "com.foreks.android.epias");
@@ -31,7 +32,6 @@ namespace SmartPulseMobileAutomationBdd.Drivers
 
             return new AndroidDriver<AppiumWebElement>(AppiumService, cap);
 
-            //_driver = new AndroidDriver<AndroidElement>(new Uri("http://127.0.0.1:4723/wd/hub"), cap);
         }
         #endregion
 
